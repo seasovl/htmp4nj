@@ -1,0 +1,14 @@
+/.myeclipse
+*.class
+/.classpath
+/.project
+/.settings
+/*.mymetadata
+.svn
+/WebRoot/WEB-INF/classes
+/WebRoot/WEB-INF/lib
+/build
+/lib
+/target
+/bin
+/obj
